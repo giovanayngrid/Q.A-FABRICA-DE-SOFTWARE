@@ -1,0 +1,51 @@
+.Fábrica de softwares-Workshop Q.A.
+.desafio 1- analisar seu barriga site.
+(https://seubarriga.wcaquino.me/)
+-Nome:Giovana Yngrid Duarte Ribeiro
+-P1-ciência de dados/noite
+
+**-Sugestões:**
+
+***#página de login#***
+
+-sugestão 1- ao usuário digitar a senha errada deveria apresentar uma mensagem de senha errada ou a sugestão de alterar senha, como por exemplo: ‘esqueceu a senha?’.
+-sugestão 2- ao tentar criar uma conta deveria ter sugestão de nomes ao longo que o usuário digita ou apresentar uma mensagem de erro quando o usuário adiciona um nome já utilizado.
+
+***#home#***
+
+-sugestão 1- deveria existir alguma aba para mostras os pagamentos pendentes e meses que estão pendentes.
+
+ ***#aba criar movimentações#***
+
+-sugestão 1-no campo onde adiciona data de pagamento e data de movimentação, seria interessante aparecer um mini calendário para o usuário escolher a data.
+-sugestão 2- no campo valor, seria interessante que enquanto o usuário adiciona os números fosse parecendo a vírgula.
+
+***#resumo mensal#***
+
+-sugestão 1-deveria existir um filtro de pesquisa em pagamentos pendentes. 
+-sugestão 2-a ação de excluir um dos relatórios deveria aparecer uma pergunta para o usuário confirmar novamente para não acontecer erros.
+-sugestão 3-deveria ser mais explicito ou destacado quando houvesse pendencias quanto é utilizado os filtros.
+**-problemas:**
+
+***#página de login#***
+
+-na página de login, quando é apertado o botão ‘ENTER’ deveria descer para adicionar a senha não tentar logar imediatamente.
+-ao tentar criar uma conta, no campo nome é permitido um nome já utilizado.
+-ao tentar criar uma conta, no campo senha utilizar uma senha com 1 digito é permitido.
+-ao tentar criar uma conta, na barra de nome é permitido colocar apenas um caractere, exemplo: “1”, “@”, “#”, “a”.
+-ao tentar criar uma conta, no campo email é permitido colocar um caractere + @ + caractere é permitido, exemplo: “2@2”, “3@0”.
+
+***#página inicial(home)#***
+
+-site não intuitivo, e seu objetivo confuso.
+-ao adicionar contas elas não são automaticamente mostradas no painel home.
+
+***#aba criar movimentações#***
+
+-algumas movimentações que fiz não apareceram no resumo mensal, não sei se fui eu que não soube mexer, analisar isso novamente.
+
+***#resumo mensal#***
+
+-algumas movimentações que criei não apareceram no filtro dos resumo mensal.
+-não é possivel ver as descrições e interessados.
+-falta funcionalidade para alguns campos que são obrigatórios prencher na movimentação.
