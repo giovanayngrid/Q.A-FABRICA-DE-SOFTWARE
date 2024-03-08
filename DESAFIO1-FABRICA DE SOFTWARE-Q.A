@@ -25,6 +25,7 @@
 -sugestão 1-deveria existir um filtro de pesquisa em pagamentos pendentes. 
 -sugestão 2-a ação de excluir um dos relatórios deveria aparecer uma pergunta para o usuário confirmar novamente para não acontecer erros.
 -sugestão 3-deveria ser mais explicito ou destacado quando houvesse pendencias quanto é utilizado os filtros.
+
 **-problemas:**
 
 ***#página de login#***
@@ -37,12 +38,7 @@
 
 ***#página inicial(home)#***
 
--site não intuitivo, e seu objetivo confuso.
 -ao adicionar contas elas não são automaticamente mostradas no painel home.
-
-***#aba criar movimentações#***
-
--algumas movimentações que fiz não apareceram no resumo mensal, não sei se fui eu que não soube mexer, analisar isso novamente.
 
 ***#resumo mensal#***
 
