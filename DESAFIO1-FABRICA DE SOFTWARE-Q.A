@@ -30,7 +30,6 @@
 
 ***#página de login#***
 
--na página de login, quando é apertado o botão ‘ENTER’ deveria descer para adicionar a senha não tentar logar imediatamente.
 -ao tentar criar uma conta, no campo nome é permitido um nome já utilizado.
 -ao tentar criar uma conta, no campo senha utilizar uma senha com 1 digito é permitido.
 -ao tentar criar uma conta, na barra de nome é permitido colocar apenas um caractere, exemplo: “1”, “@”, “#”, “a”.
